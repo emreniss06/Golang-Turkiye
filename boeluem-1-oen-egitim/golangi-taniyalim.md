@@ -7,9 +7,9 @@ description: >-
 
 # Golang'ı Tanıyalım
 
-**Ne bu Golang?**
+### Golang arkadaşımıza Go da diyebiliriz hiç problem değil. Google 2007 yılından beri geliştirme yaparak açık kaynak olarak günümüze kadar hala devam eden çalışmalarıyla kullanılmaya hazır bir şekilde stabil bir dil oluşturdu.
 
-Golang arkadaşımıza Go da diyebiliriz hiç problem değil. Google 2007 yılından beri geliştirme yaparak açık kaynak olarak günümüze kadar hala devam eden çalışmalarıyla kullanılmaya hazır bir şekilde stabil bir dil oluşturdu. İlk versiyonu Kasım 2009 tarihinde çıktı. Ne kadar yeni keşfedilmeye başlanılsa da eski bir tarihi var. Bu sayede güvenimizi kazanıyor. Go'nun derleyicisi **Go Compiler** yine açık kaynak olarak birçok işletim sistemi için çalışmaya hazır olarak geliştirilmiştir. Bu arada derleyici, açık kaynak falan derken biliyoruz bu kavramları bilmeyen arkadaşlarımız olacaktır. Sayfanın en sonunda hepsini tek tek açıklayacağız.
+İlk versiyonu Kasım 2009 tarihinde çıktı. Ne kadar yeni keşfedilmeye başlanılsa da eski bir tarihi var. Bu sayede güvenimizi kazanıyor. Go'nun derleyicisi **Go Compiler** yine açık kaynak olarak birçok işletim sistemi için çalışmaya hazır olarak geliştirilmiştir. Bu arada derleyici, açık kaynak falan derken biliyoruz bu kavramları bilmeyen arkadaşlarımız olacaktır. Sayfanın en sonunda hepsini tek tek açıklayacağız.
 
 **Neden Golang?**
 
