@@ -1,0 +1,2 @@
+# Golang'ı Tanıyalım
+
