@@ -4,3 +4,17 @@
 
 Dokümanın açılış sayfasını okuduysanız ki okuduğunuzu varsayıyorum “Tamam tamam anladık. Hadi başlayalım artık.” diyorsunuzdur. Biliyorum, lütfen biraz sabredin ve adım adım ilerleyelim. İnanın bende sabırsızlanıyorum. Öncelikle size biraz bu dokümanda öğrenme süreci nasıl işleyecek biraz bahsedeyim.
 
+#### **Pekiştirelim**
+
+Belirli başlıklar altında tanımlamalar yapıp örnek kodlar üzerinden pekiştirmeye çalışacağız.
+
+#### **Ne var ne yoksa bakalım**
+
+Bilinen veya bilinmeyen köküne kadar tüm Go işlevlerini bu dokümana indirgeyeceğiz. Tabi ömrümüz yeterse.
+
+#### **Yol arkadaşımız olsun**
+
+Arama motorlarında bulunan bilgi kirliliği yerine tek bir noktadan tüm bilgilerimizi burada tazeleyeceğiz. Bu sayede tam öğrenmiş bile olsak proje geliştirirken istediğimiz zaman burayı kendimize bir el kitabı olarak benimseyeceğiz.
+
+
+
