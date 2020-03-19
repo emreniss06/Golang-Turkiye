@@ -63,7 +63,7 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
   </tbody>
 </table>**Eğitim devam ederken daha iyi anlayacağız ama kısaca bu dilin özellikleri ne?**
 
-* Statik yazılmıştır, fakat dinamik rahatlığındadır. [https://kodcu.com/2011/07/statik-tipli-diller-ile-dinamik-tipli-diller-arasindaki-farklar/](https://kodcu.com/2011/07/statik-tipli-diller-ile-dinamik-tipli-diller-arasindaki-farklar/)
+* Statik yazılmıştır, fakat dinamik rahatlığındadır.
 * Büyük sistemlere ölçeklenebilir.
 * Üretken ve okunabilir olması, çok fazla zorunlu anahtar kelime ve tekrarlamaların kullanılmaması
 * Tümleşik Geliştirme Ortamına \(IDE\) ihtiyaç duyulmaması fakat desteklemesi
