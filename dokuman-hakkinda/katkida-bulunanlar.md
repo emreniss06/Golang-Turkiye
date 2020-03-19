@@ -16,5 +16,7 @@ Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi? Sizde bu
 | :--- | :--- | :--- |
 | Maalesef henüz yok. | Olmayan kişinin sosyal medyası? | İnan bilmiyorum. |
 
+**Tamam mıyız?**
 
+Listemize göz gezdirdiyseniz hadi artık eğitime başlayalım. Diğer sayfada bekliyorum sizi.
 
