@@ -74,5 +74,5 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
 
 **Tamam mıyız?**
 
-Hadi artık biraz derleyiciyi kurmaya çalışalım. Diğer sayfada bekliyorum.
+Hadi artık biraz derleyiciyi kurmaya çalışalım. Diğer sayfada bekliyoruz.
 

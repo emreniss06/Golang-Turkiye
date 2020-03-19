@@ -24,5 +24,5 @@ _Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilm
 
 **Tamam mıyız?**
 
-Emirleri aldım komutanım, hadi gidelim buradan diyorsanız sizi önce giriş bölümüne alalım. Sizi orada bekliyorum, gelin.
+Emirleri aldım komutanım, hadi gidelim buradan diyorsanız sizi önce giriş bölümüne alalım. Sizi orada bekliyoruz, gelin.
 

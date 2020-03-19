@@ -18,5 +18,5 @@ Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi? Sizde bu
 
 **Tamam mıyız?**
 
-Listemize baktıysanız hadi artık eğitime başlayalım. Çok güzel şeyler yapacağız eminim. Sizi diğer sayfada bekliyorum.
+Listemize baktıysanız hadi artık eğitime başlayalım. Çok güzel şeyler yapacağız eminim. Sizi diğer sayfada bekliyoruz.
 
