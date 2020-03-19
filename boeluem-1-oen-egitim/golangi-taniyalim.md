@@ -29,7 +29,7 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
       <th style="text-align:center">
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>
-          <img src="../.gitbook/assets/ken-thompson (2).jpg" alt/>
+          <img src="../.gitbook/assets/ken-thompson.jpg" alt/>
         </p>
       </th>
       <th style="text-align:center">

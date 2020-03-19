@@ -4,3 +4,21 @@ Golang'in çalışabilmesi için öncelikle derleyicinin kurulması gerekiyor. Y
 
 [**https://golang.org/dl/**](https://golang.org/dl/) adresinden işletim sisteminize uygun olan son sürümü indirin. Go neredeyse tüm işletim sistemlerinde rahatlıkla çalışabilmektedir.
 
+![](../.gitbook/assets/go-kurulum-1.jpg)
+
+![](../.gitbook/assets/go-kurulum-2.jpg)
+
+![](../.gitbook/assets/go-kurulum-3.jpg)
+
+![](../.gitbook/assets/go-kurulum-4.jpg)
+
+![](../.gitbook/assets/go-kurulum-5.jpg)
+
+![](../.gitbook/assets/go-kurulum-6.jpg)
+
+![](../.gitbook/assets/go-kurulum-7.jpg)
+
+![](../.gitbook/assets/go-kurulum-8.jpg)
+
+
+
