@@ -10,8 +10,6 @@ description: >-
 
 Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi?
 
-Hoop! Katkıda bulunanlar işte burada;
-
 | **Katkıda Bulunan** | **Sosyal Medya** | **Ne yapmış bu?** |
 | :--- | :--- | :--- |
 | Maalesef henüz yok. | Olmayan kişinin sosyal medyası? | İnan bilmiyorum. |
