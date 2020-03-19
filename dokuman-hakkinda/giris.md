@@ -16,7 +16,9 @@ Bilinen veya bilinmeyen köküne kadar tüm Go işlevlerini bu dokümana indirge
 
 Arama motorlarında bulunan bilgi kirliliği yerine tek bir noktadan tüm bilgilerimizi burada tazeleyeceğiz. Bu sayede tam öğrenmiş bile olsak proje geliştirirken istediğimiz zaman burayı kendimize bir el kitabı olarak benimseyeceğiz.
 
-Bu kadar yeter sanırım maksat giriş sayfamız dolu olsun, hadi diğer sayfaya gidelim.
+#### **Tamam mıyız?**
+
+Bu kadar yeter sanırım maksat giriş sayfamız dolu olsun, hadi diğer sayfaya gidelim ve kimler bu dokümana katkıda bulunmuş bir bakalım.
 
 
 
