@@ -15,11 +15,11 @@ Meşhur **“Bir elin nesi var iki elin sesi var”** atasözümüzden yola çı
 {% endhint %}
 
 {% hint style="warning" %}
-Doküman içerisinde bulunan **kodların kopyalanması** sırasında sorunla karşılaşırsanız onları **elle** yazmayı deneyebilirsiniz. En güzeli bu değil mi zaten?
+Doküman içerisinde bulunan **kodların kopyalanması** sırasında sorunla karşılaşırsanız onları **elle** yazmayı deneyebilirsiniz. En güzeli bu değil mi zaten? Sorunla karşılaşmasanız da elinizle yazmaya özen gösterin.
 {% endhint %}
 
 {% hint style="info" %}
-Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Kesinlikle **zor değil**.
+Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Kesinlikle **zor değil**. Paylaşmak basit, web sitesinin linkini kopyalayın ve gönderin gitsin!
 {% endhint %}
 
 | Katkıda Bulunan | Sosyal Medya |
