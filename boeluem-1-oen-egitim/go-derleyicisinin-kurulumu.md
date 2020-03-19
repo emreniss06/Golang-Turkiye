@@ -1,10 +1,10 @@
 # Go Derleyicisinin Kurulumu
 
-Golang'in çalışabilmesi için öncelikle derleyicinin kurulması gerekiyor. Yazdığınız Go kodlarının çalıştırılabilmesi için bu derleyici gerekiyor.
+Golang'in çalışabilmesi için öncelikle derleyicinin kurulması gerekiyor. Yazdığınız Go kodlarınız bu derleyici sayesinde canlanacak.
 
 [**https://golang.org/dl/**](https://golang.org/dl/) adresinden işletim sisteminize uygun olan son sürümü indirin. Go neredeyse tüm işletim sistemlerinde rahatlıkla çalışabilmektedir.
 
-En çok kullanılan işletim sistemlerine kurulum aşamalarını göstermeye çalıştık. Kurulum bize sadece kurulacağı yeri soruyor. Onun haricinde başka bir şey olmadığından oldukça basit. Aşağıdan inceleyebilirsiniz.
+En çok kullanılan işletim sistemlerine göre kurulum aşamalarını göstermeye çalıştık. Kurulum bize sadece kurulacağı yeri soruyor. Onun haricinde başka bir şey olmadığından oldukça basit. Aşağıdan inceleyebilirsiniz.
 
 {% tabs %}
 {% tab title="Windows Kurulumu" %}
