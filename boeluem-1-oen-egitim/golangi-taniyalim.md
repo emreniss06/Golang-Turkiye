@@ -11,7 +11,7 @@ Golang arkadaşımıza Go da diyebiliriz hiç problem değil. Google 2007 yılı
 
 Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi amacı ile üç üstat kişi tarafından ilk olarak deney amaçlı çıkmıştır. Diğer dillerde bulunan sorunları, sıkıntıları, gereksiz buldukları her şeyi çözmek ve diğer dillerin iyi taraflarını koruma amacını göz önünde bulundurularak güzel bir başlangıç yapmıştır. İnanın bu dili oluşturan adamlar tam anlamıyla bir üstatlar. Saygılarımızı buradan sunuyoruz onlara. Tabi bu kadar övgüyü hak eden insanların nasıl bir dil ortaya çıkardığı da malum olmalı.
 
-**Hadi biraz bu üç insanı tanıyalım;**
+**Hadi biraz şu üç insanı tanıyalım;**
 
 <table>
   <thead>
@@ -38,9 +38,17 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">Ken Thompson</td>
-      <td style="text-align:center">Rob Pike</td>
-      <td style="text-align:center">Robert Griesemer</td>
+      <td style="text-align:center"><b>Ken Thompson</b>
+      </td>
+      <td style="text-align:center"><b>Rob Pike</b>
+      </td>
+      <td style="text-align:center"><b>Robert Griesemer</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">B, C, UNIX ve UTF-8</td>
+      <td style="text-align:center">UNIX ve UTF-8</td>
+      <td style="text-align:center">Hotspot ve JVM</td>
     </tr>
   </tbody>
 </table>
