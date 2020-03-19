@@ -4,7 +4,7 @@ Golang'in çalışabilmesi için öncelikle derleyicinin kurulması gerekiyor. Y
 
 [**https://golang.org/dl/**](https://golang.org/dl/) adresinden işletim sisteminize uygun olan son sürümü indirin. Go neredeyse tüm işletim sistemlerinde rahatlıkla çalışabilmektedir.
 
-En çok kullanılan işletim sistemlerine göre kurulum aşamalarını göstermeye çalıştık. Kurulum bize sadece kurulacağı yeri soruyor. Onun haricinde başka bir şey olmadığından oldukça basit. Aşağıdan inceleyebilirsiniz.
+En çok kullanılan işletim sistemlerine göre kurulum aşamalarını göstermeye çalıştık. Windows'da kurulum bize sadece kurulacağı yeri soruyor. Onun haricinde başka bir şey olmadığından oldukça basit. Hatta diğer işletim sistemlerinde direk tek komutla bile kurulabilir. Aşağıdan inceleyebilirsiniz.
 
 {% tabs %}
 {% tab title="Windows Kurulumu" %}
