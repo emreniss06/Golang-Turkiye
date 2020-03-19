@@ -22,3 +22,7 @@ Doküman içerisinde bulunan **kodların kopyalanması** sırasında sorunla kar
 Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Kesinlikle **zor değil**.
 {% endhint %}
 
+| Katkıda Bulunan | Sosyal Medya |
+| :--- | :--- |
+| Maalesef henüz yok. | Maalesef henüz yok. |
+
