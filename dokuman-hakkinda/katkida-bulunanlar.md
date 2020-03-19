@@ -6,9 +6,9 @@ description: >-
 
 # Katkıda Bulunanlar
 
-Dokümanın gelişmesinde bize destek olan herkese bir teşekkürü borç biliriz. Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi?
+#### **Dokümanın gelişmesinde bize destek olan herkese bir teşekkürü borç biliriz. Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi?**
 
-| Katkıda Bulunan | Sosyal Medya | Ne yapmış bu? |
+| **Katkıda Bulunan** | **Sosyal Medya** | **Ne yapmış bu?** |
 | :--- | :--- | :--- |
 | Maalesef henüz yok. | Olmayan kişinin sosyal medyası? | İnan bilmiyorum. |
 
