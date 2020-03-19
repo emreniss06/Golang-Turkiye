@@ -72,3 +72,7 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
 * Hızlı derlenme süresi
 * Uzak paket yöneticisi \(go get\)
 
+**Tamam mıyız?**
+
+Hadi artık biraz derleyiciyi kurmaya çalışalım. Diğer sayfada bekliyorum.
+
