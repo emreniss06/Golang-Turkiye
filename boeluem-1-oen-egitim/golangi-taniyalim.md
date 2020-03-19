@@ -61,7 +61,7 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
       <td style="text-align:center">Hotspot ve JVM</td>
     </tr>
   </tbody>
-</table>**Tamam da, bu dilin özellikleri ne?**
+</table>**Tamam da, kısaca bu dilin özellikleri ne?**
 
 * Statik yazılmıştır, fakat dinamik rahatlığındadır.
 * Büyük sistemlere ölçeklenebilir.
