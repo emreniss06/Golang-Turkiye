@@ -1,8 +1,9 @@
 # Table of contents
 
-* [GO PROGRAMLAMA DİLİ](README.md)
+* [Go Programlama Dili](README.md)
 
 ## DOKÜMAN HAKKINDA <a id="dokuman-hakkinda"></a>
 
-* [GİRİŞ](dokuman-hakkinda/giris.md)
+* [Giriş](dokuman-hakkinda/giris.md)
+* [Katkıda Bulunanlar](dokuman-hakkinda/katkida-bulunanlar.md)
 

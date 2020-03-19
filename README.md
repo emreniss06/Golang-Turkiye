@@ -4,7 +4,7 @@ description: >-
   kaynaklı bir programlama dilidir.
 ---
 
-# GO PROGRAMLAMA DİLİ
+# Go Programlama Dili
 
 ### Bu dokümantasyon Go programlama dilini öğrenmek veya kendini daha da geliştirmek isteyenler için hazırlanmıştır. Başlangıç seviyesi, orta seviye veya ileri seviye farketmeksizin tüm nitelikler için uygundur.
 

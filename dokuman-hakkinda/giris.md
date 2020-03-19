@@ -1,4 +1,8 @@
-# GİRİŞ
+---
+description: Her şeyin bir başlangıcı vardır değil mi? Bence de.
+---
+
+# Giriş
 
 #### Bu dokümanın ilk sayfası okuyucunun "Bunu neden okumalıyım?" sorusuna en güzel cevabı vermeli diye düşünüyorum. [O hâl](https://www.nasilyazilir.org/o-halde-nasil-yazilir.html)de güzel bir giriş yapalım.
 
