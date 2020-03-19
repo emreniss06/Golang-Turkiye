@@ -6,3 +6,9 @@ description: >-
 
 # Katkıda Bulunanlar
 
+| Katkıda Bulunan | Sosyal Medya | Ne yapmış bu? |
+| :--- | :--- | :--- |
+| Maalesef henüz yok. | Olmayan kişinin sosyal medyası? | İnan bilmiyorum. |
+
+
+
