@@ -34,5 +34,7 @@ Burası düzenlenecek.
 {% endtab %}
 {% endtabs %}
 
+**Tamam mıyız?**
 
+Hadi şimdi düzenli olabilmemiz için çalışma ortamımızı hazırlayalım. Kodlarınızı Notepad'de bile yazabilirsiniz ama işgence olmaz mı sizce de? Diğer sayfada bekliyoruz.
 
