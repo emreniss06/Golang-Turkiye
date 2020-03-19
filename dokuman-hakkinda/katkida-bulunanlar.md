@@ -10,7 +10,7 @@ description: >-
 
 Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi?
 
-Hoop! Listemiz işte burada;
+Hoop! Katkıda bulunanlar işte burada;
 
 | **Katkıda Bulunan** | **Sosyal Medya** | **Ne yapmış bu?** |
 | :--- | :--- | :--- |
