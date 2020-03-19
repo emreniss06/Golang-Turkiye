@@ -8,7 +8,9 @@ description: >-
 
 #### **Dokümanın gelişmesinde bize destek olan herkese bir teşekkürü borç biliriz.**
 
-Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi? Sizde bu listede yer alabilmek için ilk sayfamızda bulunan yazılarımızı okuyabilirsiniz. Ne yapacağınızı tam anlamıyla anlattık. Hadi biraz listemize bakalım.
+Sizler sayesinde birileri bir şeyler öğreniyor. Ne güzel değil mi? Sizde bu listede yer alabilmek için ilk sayfamızda bulunan yazılarımızı okuyabilirsiniz. Ne yapacağınızı tam anlamıyla anlattık. 
+
+**Hadi biraz listemize bakalım.**
 
 | **Katkıda Bulunan** | **Sosyal Medya** | **Ne yapmış bu?** |
 | :--- | :--- | :--- |
