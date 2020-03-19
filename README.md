@@ -11,7 +11,7 @@ description: >-
 Dokümanın amacı olarak tüm kaynakları **tek bir yerde** toplayarak geliştiricilerin içeriğe **daha hızlı** erişebilmesi, **bilgi kirliliğinin** önüne geçilebilmesi ve çoğunlukla **Türkiye** için Go altyapısını sağlamaktır.
 
 {% hint style="success" %}
-Meşhur **“Bir elin nesi var iki elin sesi var”** atasözümüzden yola çıkarak bu doküman herkesin **görüşlerine**, **önerilerine** ve **katkılarına** tamamen açıktır. İsterseniz bizimle iletişime geçebilir yada yukarıda bulunan **Edit on GitHub** linkine tıklayarak **Pull Request** yollayabilirsiniz. Tabi önce bir GitHub hesabınız olması gerekiyor.
+Meşhur **“Bir elin nesi var iki elin sesi var”** atasözümüzden yola çıkarak bu doküman herkesin **görüşlerine**, **önerilerine** ve **katkılarına** tamamen açıktır. İsterseniz bizimle iletişime geçebilir yada yukarıda bulunan **Edit on GitHub** linkine tıklayarak **Pull Request** yollayabilirsiniz. Tabii ki önce bir GitHub hesabınız olması gerekiyor.
 {% endhint %}
 
 {% hint style="warning" %}
