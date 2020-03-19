@@ -22,3 +22,7 @@ Doküman içerisinde bulunan **kodların kopyalanması** sırasında sorunla kar
 Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Paylaşmak basit, web sitesinin linkini kopyalayın ve gönderin gitsin. Ne kadar kolay değil mi?
 {% endhint %}
 
+**Tamam mıyız?**
+
+Emirleri aldım komutanım, hadi gidelim buradan diyorsanız sizi önce giriş bölümüne alalım. Sizi orada bekliyorum, gelin.
+
