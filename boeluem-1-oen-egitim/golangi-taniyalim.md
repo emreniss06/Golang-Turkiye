@@ -16,32 +16,31 @@ Golang, Google'ın ihtiyaçları doğrultusunda bazı sorunların çözülmesi a
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">&lt;b&gt;&lt;/b&gt;</th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:center">
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p>
+          <img src="../.gitbook/assets/ken-thompson (2).jpg" alt/>
+        </p>
+      </th>
+      <th style="text-align:center">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/rob-pike (1).jpg" alt/>
+        </p>
+      </th>
+      <th style="text-align:center">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/robert-griesemer (1).jpg" alt/>
+        </p>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
-        <p></p>
-        <p>
-          <img src="../.gitbook/assets/ken-thompson (1).jpg" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../.gitbook/assets/rob-pike.jpg" alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../.gitbook/assets/robert-griesemer.jpg" alt/>
-        </p>
-      </td>
+      <td style="text-align:center">Ken Thompson</td>
+      <td style="text-align:center">Rob Pike</td>
+      <td style="text-align:center">Robert Griesemer</td>
     </tr>
   </tbody>
 </table>
