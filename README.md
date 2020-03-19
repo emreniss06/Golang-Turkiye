@@ -24,5 +24,5 @@ Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilme
 
 | Katkıda Bulunan | Sosyal Medya | Ne yaptı bu adam?  |
 | :--- | :--- | :--- |
-| Maalesef henüz yok. | Maalesef henüz yok. | İnan bilmiyorum. |
+| Maalesef henüz yok. | Olmayan kişinin sosyal medyası? | İnan bilmiyorum. |
 
