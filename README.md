@@ -19,7 +19,7 @@ Doküman içerisinde bulunan **kodların kopyalanması** sırasında sorunla kar
 {% endhint %}
 
 {% hint style="info" %}
-Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Kesinlikle **zor değil**. Paylaşmak basit, web sitesinin linkini kopyalayın ve gönderin gitsin!
+Bu dokümanı **paylaşarak** sanırım yeni başlayacak insanların erişebilmesi için biraz **iyilik** yapabilirsiniz. Paylaşmak basit, web sitesinin linkini kopyalayın ve gönderin gitsin. Ne kadar kolay değil mi?
 {% endhint %}
 
 | Katkıda Bulunan | Sosyal Medya |
